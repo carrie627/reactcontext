@@ -22,7 +22,7 @@ function App() {
                     Use large images
                 </label>
                 <hr />
-                <List imageSize={imageSize} />
+                <List />
             </>
         </ImgContxt.Provider>
     );
